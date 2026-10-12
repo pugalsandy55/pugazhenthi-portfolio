@@ -1,0 +1,11 @@
+{
+  "name": "pugazhenthi-portfolio-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix pugazhenthi-next-portfolio run dev",
+    "build": "npm --prefix pugazhenthi-next-portfolio run build",
+    "start": "npm --prefix pugazhenthi-next-portfolio run start",
+    "lint": "npm --prefix pugazhenthi-next-portfolio run lint"
+  }
+}
